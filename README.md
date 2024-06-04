@@ -1,1 +1,1 @@
-# Fake-News-Detection-using-Machine-Le-Project
+# Fake-News-Detection-using-Machine-Learning-Project
